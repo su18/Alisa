@@ -65,3 +65,11 @@ Too lazy to write,see it yourself.
 
 ### Screenshot
 
+![](https://github.com/JosephTribbianni/Alisa/blob/master/images/QQ%E6%88%AA%E5%9B%BE20181122150702.png)
+
+![](https://github.com/JosephTribbianni/Alisa/blob/master/images/QQ%E6%88%AA%E5%9B%BE20181122171653.png)
+
+![](https://github.com/JosephTribbianni/Alisa/blob/master/images/QQ%E6%88%AA%E5%9B%BE20181122183636.png)
+
+
+
