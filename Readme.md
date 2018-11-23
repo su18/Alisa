@@ -1,11 +1,16 @@
 ## 给人类看的ReadMe
 
 >  姓名：Alisa
-> 年龄：7岁
-> 性格：性情温和
-> 技能：Web目录扫描
-> 朋友：Elena（邻居）
-> 家人：Curt（双胞胎哥哥）
+>
+>  年龄：7岁
+>
+>  性格：性情温和
+>
+>  技能：Web目录扫描
+>
+>  朋友：Elena（邻居）
+>
+>  家人：Curt（双胞胎哥哥）
 
 Alisa是一个“*初升的太阳*”，不会太多的东西，也没见过什么市面
 
@@ -65,11 +70,23 @@ Too lazy to write,see it yourself.
 
 ### Screenshot
 
-![](https://github.com/JosephTribbianni/Alisa/blob/master/images/QQ%E6%88%AA%E5%9B%BE20181122150702.png)
+Greeting
 
-![](https://github.com/JosephTribbianni/Alisa/blob/master/images/QQ%E6%88%AA%E5%9B%BE20181122171653.png)
+![image](https://github.com/JosephTribbianni/Alisa/raw/master/images/QQ%E6%88%AA%E5%9B%BE20181122150702.png)
 
-![](https://github.com/JosephTribbianni/Alisa/blob/master/images/QQ%E6%88%AA%E5%9B%BE20181122183636.png)
+
+
+Help
+
+![](https://github.com/JosephTribbianni/Alisa/raw/master/images/QQ%E6%88%AA%E5%9B%BE20181122171653.png)
+
+
+
+Scanning
+
+![](https://github.com/JosephTribbianni/Alisa/raw/master/images/QQ%E6%88%AA%E5%9B%BE20181122183636.png)
+
+
 
 
 
