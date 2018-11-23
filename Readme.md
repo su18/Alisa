@@ -68,7 +68,7 @@ Too lazy to write,see it yourself.
 - request
 - google
 
-### Screenshot
+### Screenshots
 
 Greeting
 
